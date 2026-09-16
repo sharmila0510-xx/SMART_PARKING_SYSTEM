@@ -37,18 +37,12 @@ The Cloud-Based Parking Management System is a mini project designed to simplify
 5. View the generated output.
 
 ## Project Screenshots
+<img width="1156" height="317" alt="Screenshot 2026-09-17 010038" src="https://github.com/user-attachments/assets/d35ae7e6-e0a5-49fa-8d8c-8ae1937586aa" />
+<img width="1134" height="349" alt="Screenshot 2026-09-17 010008" src="https://github.com/user-attachments/assets/6877d58a-1bb0-4411-bb9b-bcd30a82cb5d" />
+<img width="1128" height="357" alt="Screenshot 2026-09-17 005933" src="https://github.com/user-attachments/assets/1803a98d-66c8-4032-816b-b89d1cc1f225" />
+<img width="1104" height="368" alt="Screenshot 2026-09-17 005812" src="https://github.com/user-attachments/assets/86f68b60-1d69-491f-a268-a5194d1e0fd7" />
+<img width="1106" height="583" alt="Screenshot 2026-09-17 005845" src="https://github.com/user-attachments/assets/1c10e52c-c9ee-4326-8299-dee72c06c2fe" />
 
-### Project Overview
-
-![Project Overview](project-overview.png)
-
-### Input
-
-![Input](input.png)
-
-### Output
-
-![Output](output.png)
 
 ## Project Structure
 
