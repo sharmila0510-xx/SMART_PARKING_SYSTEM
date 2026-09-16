@@ -46,15 +46,71 @@ The Cloud-Based Parking Management System is a mini project designed to simplify
 
 ## Project Structure
 
-```text
-Cloud-Based-Parking-Management-System/
-│
-├── Cloud_Parking_System.ipynb
-├── README.md
-├── project-overview.png
-├── input.png
-└── output.png
-```
+             SMART PARKING SYSTEM
+                     │
+                     ▼
+             IoT Sensor Simulation
+                     │
+                     ▼
+              Cloud Database
+              (Firebase)
+                     │
+                     ▼
+              Python Backend
+                     │
+                     ▼
+              Gradio Dashboard
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+   Vehicle Entry  Vehicle Exit  Find Slot
+                     │
+                     ▼
+              Parking Reports
+
+              
+
+## project flow
+
+
+             VEHICLE
+                │
+                ▼
+        ┌───────────────┐
+        │ Vehicle Entry │
+        └───────┬───────┘
+                │
+                ▼
+       ┌─────────────────┐
+       │ Find Free Slot  │
+       └────────┬────────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ Parking Slot  │
+        │   Allocated   │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ Cloud Database│
+        └───────┬───────┘
+                │
+        ┌───────┴────────┐
+        ▼                ▼
+   Live Dashboard    IoT Sensors
+        │
+        ▼
+   Vehicle Exit
+        │
+        ▼
+   Fee Calculation
+        │
+        ▼
+   Parking History
+        │
+        ▼
+   Excel Report
 
 ## Project Type
 
